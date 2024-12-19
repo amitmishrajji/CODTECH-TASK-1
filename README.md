@@ -4,6 +4,7 @@ Company: CODTECH IT SOLUTIONS
 ID: CTO8DAQ
 Domain: EMBEDDED SYSTEMS
 Duration: 12TH DECEMBER 2024 TO 12TH JANUARY 2025
+Mentor: SRAVANI GOUNI
 
 
 Project Name: LED Blinking using Arduino
